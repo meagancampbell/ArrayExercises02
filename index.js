@@ -20,4 +20,4 @@ cargoHold.push('20 meters');
 console.log(cargoHold);
 //e) Use a template literal to print the final array and its length.
 
-console.log(`${cargoHold}`);
+console.log(`The array ${cargoHold} has a length of ${cargoHold.length}.`);
